@@ -3,6 +3,8 @@
 Welcome to my personal portfolio website! I'm **Thanusha**, a passionate BCA graduate and aspiring web developer.  
 This site showcases my projects, certifications, and skills.
 
+🌐 **Live Website**: [thanushast.netlify.app](https://thanushast.netlify.app)
+
 ## 🌟 About Me
 
 - 🎓 **Degree**: Bachelor of Computer Applications (BCA)  
