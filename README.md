@@ -8,14 +8,14 @@ This site showcases my projects, certifications, and skills.
 ## 🌟 About Me
 
 - 🎓 **Degree**: Bachelor of Computer Applications (BCA)  
-- 🏫 **College**: Government Arts and Science College, Kanyakumari  
-- 🎓 **Year of Graduation**: 2023  
-- 🌱 **Currently Learning**: Web Development, Trading  
-- 📫 **Email**: thanusha2520@gmail.com
+- 🏫 **College**: Government Arts and Science College, 
+- 🎓 **Year of Graduation**: 2023   
+- 📫 **Email**: xxx@gmail.com
 
 ## 🧠 Skills
 
-- 💻 HTML, CSS, JavaScript
+- 💻 HTML, CSS, JavaScript,ReactJs
+- Java
 - Node js
 - 🗃️ SQL 
 - 🖥️ Web Hosting (Netlify)
