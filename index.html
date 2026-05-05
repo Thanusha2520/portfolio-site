@@ -24,8 +24,9 @@ body{font-family:'Space Grotesk',sans-serif;background:var(--bg);color:var(--tex
 .cursor-f{position:fixed;width:36px;height:36px;border:1px solid rgba(124,106,255,0.35);border-radius:50%;pointer-events:none;z-index:9998;}
 
 /* NAV */
-nav{position:fixed;top:0;left:0;right:0;z-index:500;display:flex;align-items:center;justify-content:space-between;padding:1.25rem 5rem;background:rgba(6,6,8,0.85);border-bottom:1px solid var(--border);backdrop-filter:blur(20px);}
+nav{position:fixed;top:0;left:0;right:0;z-index:500;display:flex;align-items:center;justify-content:space-between;height:70px;padding:0 5rem;background:rgba(6,6,8,0.85);border-bottom:1px solid var(--border);backdrop-filter:blur(20px);}
 
+.logo{display:block;width:74px;height:38px;margin-left:1rem;background-image:url('./logo2.png');background-size:108%;background-position:center;background-repeat:no-repeat;flex-shrink:0;}
 
 .nav-links{display:flex;gap:.2rem;list-style:none;}
 .nav-links a{padding:.45rem 1rem;font-size:.8rem;font-weight:500;color:var(--text2);text-decoration:none;border-radius:100px;transition:all .2s;}
@@ -191,10 +192,29 @@ footer{border-top:1px solid var(--border);padding:3rem 5rem;display:flex;align-i
 .d1{transition-delay:.1s;}.d2{transition-delay:.2s;}.d3{transition-delay:.3s;}
 
 @media(max-width:900px){
-  nav{padding:1rem 1.5rem;}section{padding:4rem 1.5rem;}
+  nav{height:64px;padding:0 1.5rem;}section{padding:4rem 1.5rem;}
+  .logo{width:64px;height:34px;margin-left:.5rem;background-size:108%;}
   .about-grid,.proj-grid,.edu-box,.sk-grid,.conn-cards,.str-grid{grid-template-columns:1fr;}
   .edu-l{border-right:none;border-bottom:1px solid var(--border);}
   footer{padding:2rem 1.5rem;}
+
+  .logo{
+  display:block;
+  width:74px;
+  height:38px;
+  margin-left:1rem;
+  background-image:url('./logo2.png');
+ background-size:108%;
+  background-position:center;
+  background-repeat:no-repeat;
+
+  flex-shrink:0;
+}
+nav{
+  height:70px;
+}
+
+
 }
 </style>
 </head>
@@ -204,7 +224,7 @@ footer{border-top:1px solid var(--border);padding:3rem 5rem;display:flex;align-i
 <div class="cursor-f" id="fol"></div>
 
 <nav>
-  <a class="logo" href="./Logo.png" style="background-image: url('./Logo.png'); background-size: contain; background-repeat: no-repeat; width: 60px; height: 40px;  "></a>
+  <a class="logo" href="#"></a>
   <ul class="nav-links">
     <li><a href="#about">About</a></li>
     <li><a href="#skills">Skills</a></li>
