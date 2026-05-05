@@ -1,6 +1,6 @@
 # 💻 Thanusha's Portfolio Website
 
-Welcome to my personal portfolio website! I'm **Thanusha**, a passionate BCA graduate and aspiring web developer.  
+Welcome to my personal portfolio website! I'm **Thanusha**, a passionate BCA graduate and aspiring Java Full Stack Developer.  
 This site showcases my projects, certifications, and skills.
 
 🌐 **Live Website**: [thanushast.netlify.app](https://thanushast.netlify.app)
@@ -10,7 +10,7 @@ This site showcases my projects, certifications, and skills.
 - 🎓 **Degree**: Bachelor of Computer Applications (BCA)  
 - 🏫 **College**: Government Arts and Science College, 
 - 🎓 **Year of Graduation**: 2023   
-- 📫 **Email**: xxx@gmail.com
+- 📫 **Email**: thanusha@gmail.com
 
 ## 🧠 Skills
 
